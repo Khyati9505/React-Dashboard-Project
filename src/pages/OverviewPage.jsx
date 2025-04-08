@@ -1,5 +1,6 @@
 import { BarChart2, ShoppingBag, Users, Zap } from "lucide-react";
 import { motion } from "framer-motion";
+import axios from 'axios';
 
 import Header from "../components/common/Header";
 import StatCard from "../components/common/StatCard";
